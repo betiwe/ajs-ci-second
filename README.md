@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/w12sarwjnjdk1cr9?svg=true)](https://ci.appveyor.com/project/betiwe/ajs-ci-second)
